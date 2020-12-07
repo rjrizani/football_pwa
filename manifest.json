@@ -1,0 +1,18 @@
+{
+    "name": "Football News",
+    "short_name": "News",
+    "description": "Football News",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "gcm_sender_id": "274120687358",
+    "icons": [
+        {
+            "src": "/assets/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
